@@ -35,27 +35,26 @@ Short description of your research (2–5 lines). Mention your core themes and w
 
 <div class="row mt-4">
   <div class="col-md-4 mb-4">
-    {% include figure.liquid
-    path="assets/img/research/test_research.jpg"
-    class="img-fluid rounded z-depth-1"
-    alt="Research image 1"
-    %}
+    <img
+      src="/assets/img/research/test_research.jpg"
+      class="img-fluid rounded z-depth-1"
+      alt="Research image 1"
+    />
   </div>
-
   <div class="col-md-4 mb-4">
-    {% include figure.liquid
-    path="assets/img/research/test_research.jpg"
-    class="img-fluid rounded z-depth-1"
-    alt="Research image 2"
-    %}
+    <img
+      src="/assets/img/research/test_research.jpg"
+      class="img-fluid rounded z-depth-1"
+      alt="Research image 2"
+    />
   </div>
-
   <div class="col-md-4 mb-4">
-    {% include figure.liquid
-    path="assets/img/research/test_research.jpg"
-    class="img-fluid rounded z-depth-1"
-    alt="Research image 3"
-    %}
+    <img
+      src="/assets/img/research/test_research.jpg"
+      class="img-fluid rounded z-depth-1"
+      alt="Research image 3"
+    />
   </div>
 </div>
+
 
