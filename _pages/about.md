@@ -34,20 +34,4 @@ Thanks for stopping by!
 
 Short description of your research (2–5 lines). Mention your core themes and what you build.
 
-{% include figure.liquid
-  path="assets/img/research/research_1.jpg"
-  class="img-fluid rounded z-depth-1"
-  alt="Research image 1"
-%}
 
-{% include figure.liquid
-  path="assets/img/research/research_2.jpg"
-  class="img-fluid rounded z-depth-1"
-  alt="Research image 2"
-%}
-
-{% include figure.liquid
-  path="assets/img/research/research_3.jpg"
-  class="img-fluid rounded z-depth-1"
-  alt="Research image 3"
-%}
