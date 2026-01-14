@@ -34,7 +34,7 @@ Thanks for stopping by!
 Short description of your research (2–5 lines). Mention your core themes and what you build.
 
 {% include figure.liquid
-path="assets/img/research/research_1.jpg"
+path="assets/img/research/brainhack.png"
 class="img-fluid rounded z-depth-1"
 alt="Research image 1"
 %}
