@@ -9,8 +9,7 @@ horizontal: false
 permalink: /others/ # others
 ---
 
-#In my free time, I like to stay active and try new challenges: specially running, cycling and swimming. I started keeping track of some of the sports events and activities I’ve been part of below.
-#Still need to add some more!
+Text here
 
 <!-- pages/projects.md -->
 <div class="projects">
