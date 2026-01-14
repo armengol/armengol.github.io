@@ -38,3 +38,15 @@ path="assets/img/research/brainhack.png"
 class="img-fluid rounded z-depth-1"
 alt="Research image 1"
 %}
+
+{% include figure.liquid
+path="assets/img/research/brainhack.jpg"
+class="img-fluid rounded z-depth-1"
+alt="Research image 2"
+%}
+
+{% include figure.liquid
+path="assets/img/research/brainhack.jpg"
+class="img-fluid rounded z-depth-1"
+alt="Research image 3"
+%}
