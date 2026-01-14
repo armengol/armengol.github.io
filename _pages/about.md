@@ -56,5 +56,3 @@ Short description of your research (2–5 lines). Mention your core themes and w
     />
   </div>
 </div>
-
-
