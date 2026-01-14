@@ -30,3 +30,5 @@ I’m currently updating this page—check back soon for projects, publications,
 Thanks for stopping by!
 
 ## Research
+
+Short description of your research (2–5 lines). Mention your core themes and what you build.
