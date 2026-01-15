@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-been-promoted-to-research-scientist-at-the-mit-auto-id-lab",
-          title: 'I have been promoted to Research Scientist at the MIT Auto-ID Lab',
+            },},{id: "news-promoted-to-research-scientist-at-the-mit-auto-id-lab",
+          title: 'Promoted to Research Scientist at the MIT Auto-ID Lab!',
           description: "",
           section: "News",},{id: "news-invited-guest-lecture-mit-course-technologies-for-mental-health-and-wellness",
           title: 'Invited guest lecture — MIT course Technologies for Mental Health and Wellness.',
