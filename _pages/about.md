@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Scientist at MIT, where I also earned my PhD under the supervision of Prof. [Sanjay Sarma](https://meche.mit.edu/people/faculty/sesarma%40mit.edu). My work lies at the intersection of human–computer interaction, cognitive science, and artificial intelligence. My research has been supported by a La Caixa [La Caixa Fellowship](https://lacaixafoundation.org/en/).
+I am a Research Scientist at MIT, where I also earned my PhD under the supervision of Prof. [Sanjay Sarma](https://meche.mit.edu/people/faculty/sesarma%40mit.edu). My work lies at the intersection of human–computer interaction, cognitive science, and artificial intelligence. My research has been supported by [La Caixa Fellowship](https://lacaixafoundation.org/en/).
 
 ## Research
 
