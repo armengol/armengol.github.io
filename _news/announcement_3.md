@@ -6,4 +6,4 @@ related_posts: false
 published: true
 ---
 
-I have been promoted to Research Scientist at the [MIT Auto-ID Lab](https://autoid.mit.edu/index.html)
+Promoted to Research Scientist at the [MIT Auto-ID Lab](https://autoid.mit.edu/index.html)!
