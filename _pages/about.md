@@ -29,15 +29,15 @@ Website under construction 🚧
 I’m currently updating this page—check back soon for projects, publications, and details.
 Thanks for stopping by!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a Research Scientist at MIT, where I also earned my PhD under the supervision of Prof. [Sanjay Sarma](https://meche.mit.edu/people/faculty/sesarma%40mit.edu). My work lies at the intersection of human–computer interaction, cognitive science, and artificial intelligence. My research has been supported by a La Caixa [La Caixa Fellowship](https://lacaixafoundation.org/en/).
 
 ## Research
 
-Short description of your research (2–5 lines). Mention your core themes and what you build.
+I develop human–computer interfaces to capture and convey experts’ tacit knowledge—forms of know-how that are difficult to verbalize. By instrumenting experts’ tools, bodies, and environments, I extract implicit signals of expertise using data-driven methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This knowledge is translated into interactive interfaces such as Augmented Reality to support training and guidance, and is also used to augment AI systems, enabling models to learn from human implicit behavior. During my PhD, I showed that unconscious visual attention—measured through eye tracking and neural signals—reveals task-relevant knowledge beyond expert awareness, and that feeding this extracted knowledge back to humans and AI improves performance.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am currently extending this work to additional expert domains, including sports and skilled crafts, exploring how tacit expertise can be captured, reinforced, and transferred across humans and AI systems.
 
 <div class="row mt-4">
   <div class="col-md-4 mb-4">
