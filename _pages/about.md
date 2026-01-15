@@ -37,21 +37,21 @@ I am currently extending this work to additional expert domains, including sport
 <div class="row mt-4">
   <div class="col-md-4 mb-4">
     <img
-      src="/assets/img/research/test_research.jpg"
+      src="/assets/img/research/holocate_research.gif"
       class="img-fluid rounded z-depth-1"
       alt="Research image 1"
     />
   </div>
   <div class="col-md-4 mb-4">
     <img
-      src="/assets/img/research/test_research.jpg"
+      src="/assets/img/research/cogn_reinf.gif"
       class="img-fluid rounded z-depth-1"
       alt="Research image 2"
     />
   </div>
   <div class="col-md-4 mb-4">
     <img
-      src="/assets/img/research/test_research.jpg"
+      src="/assets/img/research/autoar_research.gif"
       class="img-fluid rounded z-depth-1"
       alt="Research image 3"
     />
