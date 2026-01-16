@@ -1,6 +1,6 @@
 ---
 layout: page
-title: others
+title: other
 description: Things I enjoy working on and exploring in my free time.
 nav: true
 nav_order: 3
