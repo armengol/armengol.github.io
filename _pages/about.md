@@ -28,7 +28,7 @@ I am a Research Scientist at MIT, where I also earned my PhD under the supervisi
 
 ## Research
 
-I develop human–computer interfaces to capture and convey experts’ tacit knowledge—forms of know-how that are difficult to verbalize. By instrumenting experts’ tools, bodies, and environments, I extract implicit signals of expertise using data-driven methods.
+I develop human–computer interfaces to capture and convey experts’ *tacit knowledge* —forms of know-how that are difficult to verbalize. By instrumenting experts’ tools, bodies, and environments, I extract implicit signals of expertise using data-driven methods.
 
 This knowledge is translated into interactive interfaces such as Augmented Reality to support training and guidance, and is also used to augment AI systems, enabling models to learn from human implicit behavior. During my PhD, I showed that unconscious visual attention—measured through eye tracking and neural signals—reveals task-relevant knowledge beyond expert awareness, and that feeding this extracted knowledge back to humans and AI improves performance.
 
