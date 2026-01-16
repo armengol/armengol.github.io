@@ -9,7 +9,7 @@ horizontal: false
 permalink: /others/ # others
 ---
 
-Text here
+🚧 I am working on this page! 🚧
 
 <!-- pages/projects.md -->
 <div class="projects">
