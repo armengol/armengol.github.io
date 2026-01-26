@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-26'
 papers:
   8hu27apy8A4C:2osOgNQ5qMEC:
     citations: 65
@@ -18,7 +18,7 @@ papers:
     title: Brain-computer interface for user's visual focus detection
     year: '2023'
   8hu27apy8A4C:Se3iqnhoufwC:
-    citations: 12
+    citations: 11
     title: 'Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface'
     year: '2023'
   8hu27apy8A4C:Tyk-4Ss8FVUC:
@@ -62,7 +62,7 @@ papers:
     title: Towards industrial iot-ar systems using deep learning-based object pose estimation
     year: '2019'
   8hu27apy8A4C:roLk4NBRz8UC:
-    citations: 7
+    citations: 8
     title: Towards EEG-based objective ADHD diagnosis support using convolutional neural networks
     year: '2023'
   8hu27apy8A4C:u-x6o8ySG0sC:
