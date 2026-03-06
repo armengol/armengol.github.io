@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-03-06'
 papers:
   8hu27apy8A4C:2osOgNQ5qMEC:
-    citations: 66
+    citations: 67
     title: 'Magichand: Interact with iot devices in augmented reality environment'
     year: '2019'
   8hu27apy8A4C:9yKSN-GCB0IC:
@@ -27,22 +27,22 @@ papers:
     year: '2019'
   8hu27apy8A4C:UebtZRa9Y70C:
     citations: 2
-    title: 'Capturing Tacit Knowledge of Experts Through the Study of Visual Attention: Applications for Human Expertise and AI'
+    title: 'Capturing Tacit Knowledge of Experts through the Study of Visual Attention: Applications for Human Expertise and AI'
     year: '2023'
   8hu27apy8A4C:W7OEmFMy1HYC:
     citations: 2
     title: System and method for wireless sensing of health monitoring
     year: '2021'
   8hu27apy8A4C:WF5omc3nYNoC:
-    citations: 8
+    citations: 7
     title: 'Brainwave-augmented eye tracker: high-frequency SSVEPs improves camera-based eye tracking accuracy'
     year: '2022'
   8hu27apy8A4C:Y0pCki6q_DkC:
-    citations: 6
+    citations: 7
     title: Brain-computer interface for user's visual focus detection
     year: '2022'
   8hu27apy8A4C:YsMSGLbcyi4C:
-    citations: 1
+    citations: 2
     title: A Novel Approach to Decode Covert Spatial Attention Using SSVEP and Single-Frequency Phase-Coded Stimuli
     year: '2021'
   8hu27apy8A4C:d1gkVwhDpl0C:
@@ -58,7 +58,7 @@ papers:
     title: 'WIP: Making Implicit Knowledge Explicit-A Data-Driven Approach to Improve Knowledge Transfer in a Glassblowing Beginners Class'
     year: '2024'
   8hu27apy8A4C:qjMakFHDy7sC:
-    citations: 18
+    citations: 19
     title: Towards industrial iot-ar systems using deep learning-based object pose estimation
     year: '2019'
   8hu27apy8A4C:roLk4NBRz8UC:
