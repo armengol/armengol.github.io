@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-20'
 papers:
   8hu27apy8A4C:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'Responsive IoT: Using biosignals to connect humans and smart devices'
     year: '2018'
   8hu27apy8A4C:IjCSPb-OGe4C:
-    citations: 11
+    citations: 12
     title: A system approach for closed-loop assessment of neuro-visual function based on convolutional neural network analysis of EEG signals
     year: '2020'
   8hu27apy8A4C:LkGwnXOMwfcC:
