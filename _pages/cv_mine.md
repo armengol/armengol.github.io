@@ -8,7 +8,7 @@ permalink: /cv/
 
 <p style="text-align:center; margin-top: 4rem;">
   <a class="btn btn-outline-primary btn-lg"
-     href="{{ '/assets/pdf/Alex_Armengol_Urpi_resume.pdf' | relative_url }}"
+     href="{{ '/assets/pdf/Alex_Armengol_Urpi_resume_complete.pdf' | relative_url }}"
      target="_blank">
     📄 View CV (PDF)
   </a>
