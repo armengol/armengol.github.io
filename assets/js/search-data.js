@@ -456,7 +456,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Alex_Armengol_Urpi_resume.pdf", "_blank");
+          window.open("/assets/pdf/Alex_Armengol_Urpi_resume_complete.pdf", "_blank");
         },
       },{
         id: 'social-email',
