@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-06-10'
 papers:
   8hu27apy8A4C:0EnyYjriUFMC:
     citations: 0
     title: 'Cognitive reinforcement: capturing tacit knowledge and enhancing expertise with a biofeedback interface for visual attention'
     year: '2026'
   8hu27apy8A4C:2osOgNQ5qMEC:
-    citations: 67
+    citations: 68
     title: 'Magichand: Interact with iot devices in augmented reality environment'
     year: '2019'
   8hu27apy8A4C:9yKSN-GCB0IC:
@@ -22,7 +22,7 @@ papers:
     title: Brain-computer interface for user's visual focus detection
     year: '2023'
   8hu27apy8A4C:Se3iqnhoufwC:
-    citations: 13
+    citations: 14
     title: 'Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface'
     year: '2023'
   8hu27apy8A4C:Tyk-4Ss8FVUC:
@@ -50,7 +50,7 @@ papers:
     title: A Novel Approach to Decode Covert Spatial Attention Using SSVEP and Single-Frequency Phase-Coded Stimuli
     year: '2021'
   8hu27apy8A4C:d1gkVwhDpl0C:
-    citations: 32
+    citations: 33
     title: 'Sublime: a hands-free virtual reality menu navigation system using a high-frequency SSVEP-based brain-computer interface'
     year: '2018'
   8hu27apy8A4C:eQOLeE2rZwMC:
