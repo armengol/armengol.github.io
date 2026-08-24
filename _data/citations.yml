@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-24'
 papers:
   8hu27apy8A4C:0EnyYjriUFMC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Brain-computer interface for user's visual focus detection
     year: '2023'
   8hu27apy8A4C:Se3iqnhoufwC:
-    citations: 17
+    citations: 18
     title: 'Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface'
     year: '2023'
   8hu27apy8A4C:Tyk-4Ss8FVUC:
